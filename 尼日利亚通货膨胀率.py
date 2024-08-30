@@ -136,4 +136,3 @@ scatter_chart = (
 
 scatter_chart.render('尼日利亚历通货膨胀率预测Kmeans.html')
 
-# https://www.kaggle.com/datasets/iamhardy/nigeria-inflation-rates/data
